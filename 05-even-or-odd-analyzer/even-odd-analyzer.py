@@ -25,8 +25,3 @@ for d in divisors:
         print(f"{n} is divisible by {d}")
     else:
         print(f"{n} is not divisible by {d}")
-
-
-
-
-
